@@ -1,11 +1,11 @@
-if [ ! -d "~/config" ]; then
-    mkdir ~/config
+if [ ! -d "~/config/dracula" ]; then
+    mkdir ~/config/dracula
 fi
 
-cd ~/config
+cd ~/config/dracula
 
 # Install Dracula theme
 git clone https://github.com/dracula/zsh.git
-ln -s ~/config/zsh/dracula.zsh-theme ~/.oh-my-zsh/themes/dracula.zsh-theme
+ln -s ~/config/dracula/zsh/dracula.zsh-theme ~/.oh-my-zsh/themes/dracula.zsh-theme
 
 echo "Setup complete. Restart shell or source .zshrc."
