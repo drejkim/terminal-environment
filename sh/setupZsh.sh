@@ -1,5 +1,5 @@
 if [ ! -d "~/config/dracula" ]; then
-    mkdir ~/config/dracula
+    mkdir -p ~/config/dracula
 fi
 
 cd ~/config/dracula
