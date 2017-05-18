@@ -8,4 +8,4 @@ cd ~/config/dracula
 git clone https://github.com/dracula/zsh.git
 ln -s ~/config/dracula/zsh/dracula.zsh-theme ~/.oh-my-zsh/themes/dracula.zsh-theme
 
-echo "Setup complete. Restart shell or source .zshrc."
+echo "Setup complete. Set ZSH_THEME=\"dracula\" in .zshrc."
