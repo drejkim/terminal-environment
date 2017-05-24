@@ -4,14 +4,15 @@ Files / packages for configuring my Terminal.
 
 ## Packages
 
-* [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
-* [tmux](https://tmux.github.io/)
-* [vim](http://www.vim.org/)
-* [Vundle](https://github.com/VundleVim/Vundle.vim)
+Install the following via [Homebrew](https://brew.sh/):
+
+* zsh
+* tmux
+* vim
 
 ## Shell scripts
 
-Navigate to `scripts/` and run the desired shell scripts.
+Navigate to `scripts/` and run the shell scripts.
 
 ## Configuration files
 
