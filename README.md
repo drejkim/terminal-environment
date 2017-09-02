@@ -4,7 +4,7 @@ Files / packages for configuring my Terminal.
 
 ## Packages
 
-Install the following via [Homebrew](https://brew.sh/):
+Install the following packages (e.g. via [Homebrew](https://brew.sh/) on macOS):
 
 * zsh
 * tmux
