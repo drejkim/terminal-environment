@@ -2,9 +2,13 @@
 
 Files / packages for configuring my Terminal.
 
+## Color scheme
+
+[Dracula](https://draculatheme.com/), a dark theme for shells, IDEs, and more. 
+
 ## Packages
 
-Install the following packages (e.g. via [Homebrew](https://brew.sh/) on macOS):
+Install the following packages (e.g. via [Homebrew](https://brew.sh/) on macOS, apt on Ubuntu):
 
 * zsh
 * tmux
