@@ -1,3 +1,5 @@
+#!/bin/sh
+
 if [ ! -d "~/config/dracula" ]; then
     mkdir -p ~/config/dracula
 fi
