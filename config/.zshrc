@@ -83,10 +83,3 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-
-# For rbenv
-# eval "$(rbenv init -)"
-
-# For pyenv
-# eval "$(pyenv init -)"
-# eval "$(pyenv virtualenv-init -)"
