@@ -20,4 +20,4 @@ Navigate to `scripts/` and run the shell scripts.
 
 ## Configuration files
 
-Copy the desired configuration files (in `config/`) into your home directory.
+Copy the desired configuration files (in `files/`) into your home directory.
