@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2017 Esther Jun Kim
+Copyright (c) 2017-2020 Esther Jun Kim
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
